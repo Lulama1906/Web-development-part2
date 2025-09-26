@@ -56,3 +56,4 @@ screenshots/ folder (to be added).
  
               Author 
 The Muffin & Scone Co. — Student Project for Web Development Module
+.
