@@ -55,5 +55,5 @@ Screenshots of the site on desktop, tablet, and mobile views are included in the
 screenshots/ folder (to be added). 
  
               Author 
-The Muffin & Scone Co. — Student Project for Web Development Module
+The Muffin & Scone Co. — Student Project for Web Development Module.
 .
